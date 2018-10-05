@@ -1,0 +1,19 @@
+{
+  "name": "rnota",
+  "version": "1.0.0",
+  "description": "REACT NATIVE  OTA code push",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trailseeker/rnota.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trailseeker/rnota/issues"
+  },
+  "homepage": "https://github.com/trailseeker/rnota#readme"
+}
